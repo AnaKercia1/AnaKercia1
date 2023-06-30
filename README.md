@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oie, tudo bem? Eu sou a 
-    <a href="https://www.linkedin.com/in/anakerciagregoriodesfrontend/">Ana Kércia!🤗</a>
+    <a href="https://www.linkedin.com/in/anakerciagregorio">Ana Kércia!🤗</a>
   </h1>
   
   <h3 align="center">
