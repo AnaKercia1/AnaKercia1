@@ -1,3 +1,6 @@
+
+   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=ed1fa9&width=435&align=center&lines=Olá+DEVS!+Sejam+bem-vindos+ao+meu+perfil!+;Prazer%2C+meu+nome+%C3%A9+Ana+Kércia.)](https://git.io/typing-svg)
+
 <div>
   
   <h1 align="center">
@@ -6,7 +9,9 @@
   </h1>
   
   <h3 align="center">
-    Desenvolvedora Front End comprometida, buscando constantemente o crescimento e aprimoramento na minha área
+    Formada em Administração de empresas,
+     pós graduada em Gestão Àgil e Desenvolvimento de Software, 
+     e estudante de Desenvolvimento Front End.
    </h3>
   
   <p align="center">"A persistência é a chave para o sucesso na jornada do desenvolvedor de sistemas, onde cada linha de código é uma oportunidade de criar um mundo de possibilidades tecnológicas."😉️
